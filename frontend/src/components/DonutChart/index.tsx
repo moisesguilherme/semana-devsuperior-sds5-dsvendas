@@ -9,7 +9,6 @@ type ChartData = {
     series: number[];
 }
 
-
 const DonutChart = () => {
 
     const [chartData, setChartData] = useState<ChartData>({labels: [], series: []});
@@ -26,6 +25,7 @@ const DonutChart = () => {
         });
     },[])
     
+    // Não apaguei o mockdata para efeito didáticos. De revisar o código futuramente
     /*
     const mockData = {
         series: [477138, 499928, 444867, 220426, 473088],
