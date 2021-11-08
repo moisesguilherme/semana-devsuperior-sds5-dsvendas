@@ -3,19 +3,18 @@
 
 # Sobre o projeto 
 
-DSVendas é uma aplicação FullStack (Front-end web e Back-end com java e Spring) construída durante a 5ª edição da **Semana DevSuperiror** (#sds5), evento organizado pela escola de programação [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DSVendas é uma aplicação FullStack (Front-end web e Back-end com Java e Spring) construída durante a 5ª edição da **Semana DevSuperiror** (#sds5), evento organizado pela escola de programação [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em um Dashboard de vendas, com gráficos exibindo a taxa de sucesso de vendas por vendedor. Uma lista paginada dasvendas e um outro gráfico destacando o resultado total das vendas.
+A aplicação consiste em um Dashboard de vendas, com gráficos exibindo a taxa de sucesso de vendas por vendedor. Uma lista paginada com um relatório das vendas e um outro gráfico destacando o resultado total das vendas.
 
 [Link do projeto em produção no Netlify](https://devsuperior-sds5-dsvendas.netlify.app/)
-/
 
 ## Layout web
-![Web 1] (https://github.com/moisesguilherme/assets/blob/main/sds5-dsvendas/front-web-01.png) 
+![Web 1](https://github.com/moisesguilherme/assets/blob/main/sds5-dsvendas/front-web-01.png) 
 
-![Web 2] (https://github.com/moisesguilherme/assets/blob/main/sds5-dsvendas/front-web-02.png)
+![Web 2](https://github.com/moisesguilherme/assets/blob/main/sds5-dsvendas/front-web-02.png)
 
-![Web 3] (https://github.com/moisesguilherme/assets/blob/main/sds5-dsvendas/front-web-03.png)
+![Web 3](https://github.com/moisesguilherme/assets/blob/main/sds5-dsvendas/front-web-03.png)
 
 
 # Tecnologias utilizadas
